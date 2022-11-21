@@ -1,0 +1,3 @@
+
+ Cliente: gabriel
+ Valor total do pedido 16,000000 

@@ -1,0 +1,301 @@
+
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 2
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - presunto - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,40
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,40
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - portuguesa - Valor R$: 20,40
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,50
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - calabresa - Valor R$: 12,50
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - atum - Valor R$: 18,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 12,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 2
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 2
+Usuario: gabriel
+Sabor:  - Valor R$: 20,00
+
+Quantidade : 2
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 4
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor:  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 5
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 1
+Usuario: gabriel
+Sabor: portuguesa  - Valor R$: 10,00
+Quantidade : 5
+Usuario: gabriel
+Sabor: calabresa  - Valor R$: 20,00
+
+Quantidade : 4
+Usuario: gabriel
+Sabor: calabresa  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor: calabresa  - Valor R$: 20,00
+
+Quantidade : 1
+Usuario: gabriel
+Sabor: calabresa  - Valor R$: 20,00
+
+Quantidade : 4
+Usuario: ghjkghjhk
+Sabor: calabresa  - Valor R$: 20,00
+
+Quantidade : 2

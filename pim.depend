@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1570472615 source:c:\users\gabri\desktop\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572443688 source:c:\users\user\desktop\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1570631361 source:c:\users\user\desktop\pim\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1570814845 source:c:\users\gabri\desktop\pim\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+

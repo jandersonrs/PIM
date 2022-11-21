@@ -1,0 +1,37 @@
+
+Nome: dasds
+CPF: dsd
+Celular: ds
+Cidade: sd
+Bairro: sd
+Endereço: sd
+Número: sd
+CEP: ds 
+
+ 
+Nome: dsd
+CPF: dsdf
+Celular: dfd
+Cidade: fd
+Bairro: fd
+Endereço: fd
+Número: fdf
+CEP: df
+ 
+Nome: gabriel
+CPF: 123
+Celular: 1232
+Cidade: 3424
+Bairro: 2342
+Endereço: 23433
+Número: 3234
+CEP: 324
+ 
+Nome: ~l‡~l‡
+CPF: 21211
+Celular: 121212
+Cidade: jkkjl
+Bairro: jijkl
+Endereço: jkhjkh
+Número: 12312312312
+CEP: 25121212

@@ -1,0 +1,13 @@
+
+Usuario: gabriel
+Bebida: Skool  - Valor R$: 4,00
+
+Quantidade : 10
+Usuario: gabriel
+Bebida: tody  - Valor R$: 4,00
+
+Quantidade : 4
+Usuario: gabriel
+Bebida: Skool  - Valor R$: 4,00
+
+Quantidade : 4
